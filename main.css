@@ -1,0 +1,18 @@
+body{
+	body width:350px;
+}
+
+lp.ul{
+	text-decoration:underline;
+}
+
+lp.bhtext{
+	background:orange;
+	font-weight:bold;
+
+}
+
+lp.rtext{
+	color:red;
+
+}
