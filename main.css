@@ -1,8 +1,13 @@
 
+
 body{
 	width:350px;
 }
-
+center {
+	max-width:500px;
+	margin:auto;
+	
+}
 .s1{
 	text-decoration:underline;
 	font-weight:bold;
