@@ -2,17 +2,17 @@ body{
 	body width:350px;
 }
 
-lp.ul{
+.ul{
 	text-decoration:underline;
 }
 
-lp.bhtext{
+.bhtext{
 	background:orange;
 	font-weight:bold;
 
 }
 
-lp.rtext{
+.rtext{
 	color:red;
 
 }
