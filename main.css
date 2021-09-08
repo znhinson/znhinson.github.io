@@ -2,18 +2,18 @@ body{
 	body width:350px;
 }
 
-.ul{
+s1{
 	text-decoration:underline;
 	font-weight:bold;
 }
 
-.bhtext{
+s2{
 	background:orange;
 	font-weight:bold;
 
 }
 
-.rtext{
+s3{
 	color:red;
 	font-weight:bold;
 
