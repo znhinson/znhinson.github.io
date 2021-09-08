@@ -1,5 +1,9 @@
 body{
 	body width:350px;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+  	width: 50%;
 }
 
 .s1{
