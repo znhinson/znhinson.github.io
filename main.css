@@ -1,6 +1,27 @@
 body{
 	
-	width: 350px;
+	body{
+	margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+
+.s1{
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+.s2{
+	background:orange;
+	font-weight:bold;
+
+}
+
+.s3{
+	color:red;
+	font-weight:bold;
+
+}
 }
 
 .s1{
